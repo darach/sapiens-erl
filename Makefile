@@ -20,8 +20,6 @@ clean:
 
 purge:	clean
 	-rm -f $(PLT_FILE)
-doc:
-	$(REBAR) doc
 
 demo:
 	sudo erl -pa ebin -pa priv -pa include
