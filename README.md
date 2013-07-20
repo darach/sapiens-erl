@@ -8,7 +8,7 @@ commands to the toy.
 Currently only the Robosapiens V1 IR command codes are supported. The robosapiens:tell/1
 native function requires the IR-OUT line on the head controller to be cut with the head
 end wired to GPIO 0 (PIn #17) and printed circuit board end to GPIO 1 (Pin #18). A ground
-connection will also need to be provided. The function essentially modules an 8 bit signal
+connection will also need to be provided. The function essentially modulates an 8 bit signal
 directly into the Robosapiens circuitry mimicking a button push on the Remote Control unit.
 
 As the signal is normally high the signal is set high during loading of the NIF module.
