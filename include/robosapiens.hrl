@@ -23,11 +23,6 @@
 %% File: robosapiens.hrl. Erlang/Sapiens header file
 %%
 %% -------------------------------------------------------------------
-%% @author Darach Ennis <darach@gmail.com>
-%% @copyright (C) 2013, Darach Ennis
-%% @doc RoboSapiens IR sensor hack. Control a Robosapiens via faking IR R/C signals
-%% @end
-%% -------------------------------------------------------------------
 
 %% ===================================================================
 %%  Basic commands
